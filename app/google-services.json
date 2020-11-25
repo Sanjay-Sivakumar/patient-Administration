@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "277745593882",
+    "firebase_url": "https://patientadminstration.firebaseio.com",
+    "project_id": "patientadminstration",
+    "storage_bucket": "patientadminstration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277745593882:android:37d4ffbfc9b69e2658eba3",
+        "android_client_info": {
+          "package_name": "com.example.patientadminstration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277745593882-fc1t1c0efhuf26vqqb7v24d3vafubbcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClfYy6G3-Xcc27Q9v6CAmhyYJ-nZXYmtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277745593882-fc1t1c0efhuf26vqqb7v24d3vafubbcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
